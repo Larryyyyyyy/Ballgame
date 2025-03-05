@@ -3,6 +3,7 @@ Wuhan University freshman advanced programming A enormous assignment.
 ==========================================
 台球小游戏 - Billiard Game
 ==========================================
+演示视频：https://www.123684.com/s/r5qMTd-2J2sH
 
 项目简介：
 Billiard Game是一个基于SFML、sqlite、OpenCV的小型桌面应用程序。用户可以体验斯诺克、中式台球、创新挑战的台球玩法，通过鼠标操作击打台球，模拟真实物理效果。游戏还包括记录系统，玩家的成绩和进度会被保存到 SQLite 数据库中。
